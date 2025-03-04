@@ -23,7 +23,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve algo-problems and read tech articles.
+- :zap: In my free time I solve algo-problems and read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-vse_shikarnoo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vse_shikarnoo)
 
